@@ -1,0 +1,8 @@
+g=open('abc','w')
+g.write("Hello\nI am a Programmer\nI work on Python\nBye")
+g.close()
+f=open('abc','r')
+open('abc','r')
+a=f.read()
+print(a)
+f.close()
